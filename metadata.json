@@ -1,0 +1,8 @@
+{
+  "name": "BudgetinYuk - Pelacak Pengeluaran Bersama",
+  "description": "Aplikasi Pelacak Pengeluaran Bersama dan Manajemen Anggaran fungsional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
